@@ -11,8 +11,6 @@ print(f'Hello world! My name is {dev}, nice to meet you!')
 <p align="center">
 <a href="https://github.com/lucassaporetti>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaporetti&hide=perl,assembly,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 <a href="https://github.com/lucassaporetti">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassaporetti&show_icons=true&theme=gruvbox" alt="Catalin's GitHub Stats" />
 </a>
