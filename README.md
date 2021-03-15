@@ -1,4 +1,4 @@
-### Hello there 👋
+### Welcome to my GitHub! 👋
 
 ```python
 dev = 'Lucas'
