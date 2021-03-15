@@ -1,8 +1,5 @@
 ### Hello there 👋
 
-<!--
-**lucassaporetti/lucassaporetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ```python
 dev = 'Lucas'
 print(f'Hello world! My name is {dev}, nice to meet you!')
